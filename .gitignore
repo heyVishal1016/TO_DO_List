@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.local
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+backups/
+dist/
+dist-ssr/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
